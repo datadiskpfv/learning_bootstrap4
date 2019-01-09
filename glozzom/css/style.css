@@ -79,7 +79,7 @@ body {
     margin-top: -50px;
 }
 
-#icon-boxes i, a:link, p {
+#icon-boxes i, #icon-boxes a:link, #icon-boxes p {
      color: white;
  }
 

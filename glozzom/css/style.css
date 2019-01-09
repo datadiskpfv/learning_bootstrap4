@@ -97,7 +97,7 @@ body {
     background: #333;
 }
 
-#main-footer p {
-    background: #fff;
-    color: #000;
+#main-footer {
+    background: #000;
+    color: #fff;
 }
